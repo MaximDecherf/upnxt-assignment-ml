@@ -5,3 +5,5 @@ sklearn
 numpy 
 matplotlib
 plotly   
+scipy
+itertools
